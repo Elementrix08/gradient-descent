@@ -1,0 +1,29 @@
+Theta values generated: [7.74731202 3.70244249 3.14680958]
+
+Closed form theta stats:
+Theta: [6.571 3.636 3.154]
+Training error: 1151.64
+Validation error: 1917.7
+Test error: 1673.67
+Time taken: 0.007 seconds
+
+Gradient descent stats up to features x^2
+Theta: [0.194 3.542 3.179]
+Training error: 1824.23
+Validation error: 2653.34
+Test error: 1897.55
+Time taken: 1.187 seconds
+
+Gradient descent stats up to features x^3
+Theta: [ 0.01   0.022  2.189 -0.01 ]
+Training error: 500917.19
+Validation error: 1483259.92
+Test error: 457561.14
+Time taken: 2.599 seconds
+
+Gradient descent stats up to features x^3 with regularization
+Theta: [ 0.01   0.022  2.185 -0.01 ]
+Training error: 504245.41
+Validation error: 1494420.1
+Test error: 460705.93
+Time taken: 2.592 seconds
